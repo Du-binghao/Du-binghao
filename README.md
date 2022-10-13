@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Du-binghao
 - 👀 I’m interested in code, Snowboard
-💘 Love: Design, Front-end, Electronic Product.
-🚀 Dream: Become a wise and romantic full-stack engineer
+- 💘 Love: Design, Front-end, Electronic Product.
+- 🚀 Dream: Become a wise and romantic full-stack engineer
 
 
 <!---
